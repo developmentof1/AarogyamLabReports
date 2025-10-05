@@ -47,7 +47,7 @@ endobj
 /Shading <<
 /Sh12 66 0 R
 >>
-/ProcSet [ /ImageB /PDF /ImageC /ImageI /Text ]
+/ProcSet [ /Text /ImageB /PDF /ImageI /ImageC ]
 >>
 /Annots [ ]
 /Parent 1 0 R
@@ -5721,7 +5721,7 @@ BT
 15.6 TL
 ET
 BT
-1 0 0 1 221.579 681.8898 Tm
+1 0 0 1 221.579 641.8898 Tm
 (Suger) Tj
 T*
 ET
@@ -5730,22 +5730,22 @@ BT
 12 TL
 ET
 BT
-1 0 0 1 60 661.8898 Tm
+1 0 0 1 60 621.8898 Tm
 (Sub\055Test) Tj
 T*
 ET
 BT
-1 0 0 1 220 661.8898 Tm
+1 0 0 1 220 621.8898 Tm
 (Value) Tj
 T*
 ET
 BT
-1 0 0 1 320 661.8898 Tm
+1 0 0 1 320 621.8898 Tm
 (Unit) Tj
 T*
 ET
 BT
-1 0 0 1 420 661.8898 Tm
+1 0 0 1 420 621.8898 Tm
 (Normal\040Range) Tj
 T*
 ET
@@ -5755,23 +5755,23 @@ BT
 ET
 0 0 0 rg
 BT
-1 0 0 1 60 646.8898 Tm
+1 0 0 1 60 606.8898 Tm
 (Fasting) Tj
 T*
 ET
 BT
-1 0 0 1 320 646.8898 Tm
+1 0 0 1 320 606.8898 Tm
 (mg\057dl) Tj
 T*
 ET
 BT
-1 0 0 1 420 646.8898 Tm
+1 0 0 1 420 606.8898 Tm
 (60\040\055\040120) Tj
 T*
 ET
 0 0 0 rg
 BT
-1 0 0 1 220 646.8898 Tm
+1 0 0 1 220 606.8898 Tm
 (80) Tj
 T*
 ET
@@ -5781,23 +5781,23 @@ BT
 ET
 0 0 0 rg
 BT
-1 0 0 1 60 631.8898 Tm
+1 0 0 1 60 591.8898 Tm
 (PP) Tj
 T*
 ET
 BT
-1 0 0 1 320 631.8898 Tm
+1 0 0 1 320 591.8898 Tm
 (mg\057dl) Tj
 T*
 ET
 BT
-1 0 0 1 420 631.8898 Tm
+1 0 0 1 420 591.8898 Tm
 (80\040\055\040160) Tj
 T*
 ET
 1 0 0 rg
 BT
-1 0 0 1 220 631.8898 Tm
+1 0 0 1 220 591.8898 Tm
 (180) Tj
 T*
 ET
